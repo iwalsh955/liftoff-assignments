@@ -12,7 +12,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 * Item 1
 Home page
-![Alt text](home.png?raw=true "Home")
+![Alt text](./home.png?raw=true "Home")
 * Item 2
 Add page
 (add.png)
