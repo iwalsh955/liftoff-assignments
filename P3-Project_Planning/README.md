@@ -9,8 +9,18 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* Home page
+ 
+ ![](/P3-Project_Planning/home.PNG)
+ 
+* Add page
 
-![](P3-Project_Planning/home.png)
+ ![](/P3-Project_Planning/add.PNG)
+ 
+* Edit page
+
+ ![](/P3-Project_Planning/edit.PNG)
+ 
 
 ### Project Tracker
 
