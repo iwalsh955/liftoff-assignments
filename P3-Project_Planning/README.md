@@ -12,7 +12,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 * Item 1
 Home page
-![Screenshot](./home.png)
+![Screenshot](/p3-Project_Planning/home.png)
 * Item 2
 Add page
 ![Screenshot](add.png)
