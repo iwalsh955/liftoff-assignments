@@ -12,13 +12,13 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 * Item 1
 Home page
-![Alt text](./home.png?raw=true "Home")
+![Screenshot](home.png)
 * Item 2
 Add page
-(add.png)
+![Screenshot](add.png)
 * Item 3
 Edit page
-(edit.png)
+![Screenshot](edit.png)
 
 ### Project Tracker
 
